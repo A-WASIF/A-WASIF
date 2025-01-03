@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Machine Learning<br>⚡ Fun fact I'm a Competitive Programmer
+🔭 I’m currently working on Neural Network<br>🌱 I’m currently learning Natural Language Processing<br>⚡ Fun fact I'm a Competitive Programmer
 
 
 ## 🌐 Socials:
